@@ -4,8 +4,7 @@
 <!--
 **nikhilkumarnayak/nikhilkumarnayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-| [![Nikhil Kumar Nayak](https://img.shields.io/badge/NIKHIL-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=nikhilkumarnayak&color=green) | ![Followers](https://img.shields.io/github/followers/nikhilkumarnayak) | ![Stars](https://img.shields.io/github/stars/nikhilkumarnayak?label=Profile%20Stars&logo=Profile%20stars&logoColor=g)
+[![Nikhil Kumar Nayak](https://img.shields.io/badge/NIKHILKUMARNAYAK-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=nikhilkumarnayak&color=green)  ![Followers](https://img.shields.io/github/followers/nikhilkumarnayak)  ![Stars](https://img.shields.io/github/stars/nikhilkumarnayak?label=Profile%20Stars&logo=Profile%20stars&logoColor=g)
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkumarnayak&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkumarnayak" /> </p>
 | [![Nikhil Kumar Nayak](https://img.shields.io/badge/NIKHIL-KUMAR-NAYAK-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=nikhilkumarnayak&color=green) | ![Followers](https://img.shields.io/github/followers/nikhilkumarnayak) | ![Stars](https://img.shields.io/github/stars/nikhilkumarnayak?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
@@ -25,7 +24,7 @@
 
 - 🤝 I’m looking for help with **All Cloud(Azure, GCP & AWS) deployment**
 
-- 👨‍💻 All of my projects are available at [[Github](https://github.com/nikhilkumarnayak),&nbsp;[Kaggle](https://www.kaggle.com/nikhilboeing)]([Github](https://github.com/nikhilkumarnayak),&nbsp;[Kaggle](https://www.kaggle.com/nikhilboeing))
+- 👨‍💻 All of my projects are available at [Github](https://github.com/nikhilkumarnayak),&nbsp;[Kaggle](https://www.kaggle.com/nikhilboeing)
 
 - 📝 I regularly write articles on [Linked Articles](https://www.linkedin.com/posts/nikhilkumarnayak_github-nikhilkumarnayakdata-science-topics-activity-6956989126621487104-q83L?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
@@ -43,7 +42,7 @@
 - [Data Visualization Basics](https://www.linkedin.com/pulse/data-visualization-basics-nikhil-kumar-nayak/)
 <!--<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6829113082187538432" height="733" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>-->
 <!-- BLOG-POST-LIST:END -->
-<br></br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikhilkumarnayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilkumarnayak" height="30" width="40" /></a>
