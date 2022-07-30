@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available at [[Github](https://github.com/nikhilkumarnayak),&nbsp;[Kaggle](https://www.kaggle.com/nikhilboeing)]([Github](https://github.com/nikhilkumarnayak),&nbsp;[Kaggle](https://www.kaggle.com/nikhilboeing))
 
-- 📝 I regularly write articles on [https://www.linkedin.com/posts/nikhilkumarnayak_github-nikhilkumarnayakdata-science-topics-activity-6956989126621487104-q83L?utm_source=linkedin_share&utm_medium=member_desktop_web](https://www.linkedin.com/posts/nikhilkumarnayak_github-nikhilkumarnayakdata-science-topics-activity-6956989126621487104-q83L?utm_source=linkedin_share&utm_medium=member_desktop_web)
+- 📝 I regularly write articles on [Linked Articles](https://www.linkedin.com/posts/nikhilkumarnayak_github-nikhilkumarnayakdata-science-topics-activity-6956989126621487104-q83L?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 - 💬 Ping me about **Python Programming, ML/AI topics**
 
