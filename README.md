@@ -4,6 +4,8 @@
 <!--
 **nikhilkumarnayak/nikhilkumarnayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+| [![Nikhil Kumar Nayak](https://img.shields.io/badge/NIKHIL-KUMAR-NAYAK-<COLOR>.svg)](https://shields.io/) |
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkumarnayak&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkumarnayak" /> </p>
 | [![Nikhil Kumar Nayak](https://img.shields.io/badge/NIKHIL-KUMAR-NAYAK-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=nikhilkumarnayak&color=green) | ![Followers](https://img.shields.io/github/followers/nikhilkumarnayak) | ![Stars](https://img.shields.io/github/stars/nikhilkumarnayak?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
@@ -29,7 +31,7 @@
 
 - 💬 Ping me about **Python Programming, ML/AI topics**
 
-- 📫 How to reach me **nikhilkumarnayak2@gmail.com,&nbsp;[Instagram](https://www.instagram.com/nikhilkumarnayak_official/), [LinkedIn](https://www.linkedin.com/in/nikhilkumarnayak/)**
+- 📫 How to reach me **nikhilkumarnayak2@gmail.com,&nbsp;[Instagram](https://www.instagram.com/nikhilkumarnayak_official/), [LinkedIn](https://www.linkedin.com/in/nikhilkumarnayak/),[Kaggle](https://www.kaggle.com/nikhilboeing/)**
 
 - ⚡ Fun fact **I think I am a Jadugar :)**
 
@@ -53,6 +55,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilkumarnayak&show_icons=true&locale=en" alt="nikhilkumarnayak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkumarnayak&" alt="nikhilkumarnayak" /></p>
-<br>
+<br></br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilkumarnayak" alt="nikhilkumarnayak" /></a> </p>
 <br>
