@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Nayak</h1>
-<h3 align="center">I am a Data Scientist in Profession.</h3>
+<h3 align="center">I am a Data Scientist in Profession. I'm from <b>India</b>.</h3>
 
 <!--
 **nikhilkumarnayak/nikhilkumarnayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-| [![Nikhil Kumar Nayak](https://img.shields.io/badge/NIKHIL-KUMAR-NAYAK-<COLOR>.svg)](https://shields.io/) |
+| [![Nikhil Kumar Nayak](https://img.shields.io/badge/NIKHIL-KUMAR-NAYAK-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=nikhilkumarnayak&color=green) 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkumarnayak&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkumarnayak" /> </p>
 | [![Nikhil Kumar Nayak](https://img.shields.io/badge/NIKHIL-KUMAR-NAYAK-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=nikhilkumarnayak&color=green) | ![Followers](https://img.shields.io/github/followers/nikhilkumarnayak) | ![Stars](https://img.shields.io/github/stars/nikhilkumarnayak?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
@@ -33,10 +33,11 @@
 
 - 📫 How to reach me **nikhilkumarnayak2@gmail.com,&nbsp;[Instagram](https://www.instagram.com/nikhilkumarnayak_official/), [LinkedIn](https://www.linkedin.com/in/nikhilkumarnayak/),[Kaggle](https://www.kaggle.com/nikhilboeing/)**
 
-- ⚡ Fun fact **I think I am a Jadugar :)**
+- ⚡ Fun fact **I think I am a Jadugar ** :laughing:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+:book: - [Introducing RegEx]<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6829113082187538432" height="733" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
