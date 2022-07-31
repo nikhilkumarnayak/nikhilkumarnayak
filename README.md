@@ -4,7 +4,7 @@
 <!--
 **nikhilkumarnayak/nikhilkumarnayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![Nikhil Kumar Nayak](https://img.shields.io/badge/NIKHILKUMARNAYAK-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=nikhilkumarnayak&color=green)  ![Followers](https://img.shields.io/github/followers/nikhilkumarnayak)  ![Stars](https://img.shields.io/github/stars/nikhilkumarnayak?label=Profile%20Stars&logo=Profile%20stars&logoColor=g)
+[![Nikhil Kumar Nayak](https://img.shields.io/badge/NIKHILKUMARNAYAK-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=nikhilkumarnayak&color=green)  ![Followers](https://img.shields.io/github/followers/nikhilkumarnayak)  ![Stars](https://img.shields.io/github/stars/nikhilkumarnayak?label=Profile%20Stars&logo=Profile%20stars&logoColor=g)  
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkumarnayak&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkumarnayak" /> </p>
 | [![Nikhil Kumar Nayak](https://img.shields.io/badge/NIKHIL-KUMAR-NAYAK-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=nikhilkumarnayak&color=green) | ![Followers](https://img.shields.io/github/followers/nikhilkumarnayak) | ![Stars](https://img.shields.io/github/stars/nikhilkumarnayak?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
