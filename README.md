@@ -36,7 +36,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- **Author of a**
+- **Author of**
 :book: - [Introducing RegEx](https://www.linkedin.com/posts/nikhilkumarnayak_intro-reg-ex-short-note-on-regular-expressions-activity-6829113082686640129-7g6q?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - [Data Preprocessing](https://www.linkedin.com/posts/nikhilkumarnayak_dataanalysis-data-preprocessing-activity-6952923996665376768-cX10?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - [Data Visualization Basics](https://www.linkedin.com/pulse/data-visualization-basics-nikhil-kumar-nayak/)
