@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **ML/AI along with NLP**
 
-- 🌱 I’m currently learning **Blockchain, MLOps and AIOps**
+- 🌱 I’m currently learning **Blockchain, MLOps, AIOps and ChatGPT**
 
 - ⚙️ I use daily: **Python,Pyspark,ML/AI,NLP,AWS,PowerBI.**
 
