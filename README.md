@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science topics**
 
-- 🤝 I’m looking for help with **All Cloud(Azure, GCP & AWS) deployment**
+- 🤝 I’m looking for help with **All Clouds(Azure, GCP & AWS) deployment**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/nikhilkumarnayak),&nbsp;[Kaggle](https://www.kaggle.com/nikhilboeing)
 
