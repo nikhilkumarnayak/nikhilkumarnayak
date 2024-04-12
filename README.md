@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Nayak</h1>
-<h3 align="center">I am a Data Scientist in the Profession. I'm from <b>India</b>.</h3>
+<h3 align="center">I am a Data Scientist by the Profession. I'm from <b>India</b>.</h3>
 
 <!--
 **nikhilkumarnayak/nikhilkumarnayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
