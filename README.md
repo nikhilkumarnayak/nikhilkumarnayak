@@ -54,10 +54,12 @@
 
 <h3 align="left">Associated With:</h3>
 <p align="left">
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hp/hp-icon.svg" alt="hp" width="40" height="40"/> </a>
+<a href="https://www.hp.com/in-en/home.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hp/hp-icon.svg" alt="hp" width="40" height="40"/> </a>
+<a href="https://www.hpe.com/in/en/home.html" target="_blank" rel="noreferrer"> <img src="https://github.com/nikhilkumarnayak/company_logos/blob/main/logos/hewlett-packard-enterprise.svg" alt="hpe" width="40" height="40"/> </a>
 <a href="https://www.boeing.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/boeing/boeing-ar21.svg" alt="boeing" width="40" height="40"/> </a>
 <a href="https://www.autodesk.in/" target="_blank" rel="noreferrer"> <img src="https://github.com/AwesomeLogos/logomono/blob/gh-pages/logos/autodesk.svg" alt="autodesk" width="40" height="40"/> </a>
 <a href="https://www.valuelabs.com/" target="_blank" rel="noreferrer"> <img src="" alt="valuelabs" width="40" height="40"/> </a>
+<a href="https://www.infobeans.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nikhilkumarnayak/company_logos/blob/main/logos/infobeans.com.svg" alt="infobeans" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
