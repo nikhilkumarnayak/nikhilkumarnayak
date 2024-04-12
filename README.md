@@ -16,9 +16,9 @@
 
 - 🔭 I’m currently working on **ML/AI along with NLP**
 
-- 🌱 I’m currently learning **Blockchain, MLOps, AIOps and ChatGPT**
+- 🌱 I’m currently learning **Gen-AI, RAG, Blockchain, MLOps, AIOps and ChatGPT**
 
-- ⚙️ I use daily: **Python,Pyspark,ML/AI,NLP,AWS,PowerBI.**
+- ⚙️ I use daily: **Python, Pyspark, ML/AI, NLP, Gen-AI/RAG/LLM, AWS/Azure/GCP, PowerBI.**
 
 - 👯 I’m looking to collaborate on **Data Science topics**
 
@@ -28,7 +28,7 @@
 
 - 📝 I regularly write articles on [Linked Articles](https://www.linkedin.com/posts/nikhilkumarnayak_github-nikhilkumarnayakdata-science-topics-activity-6956989126621487104-q83L?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
-- 💬 Ping me about **Python Programming, ML/AI topics**
+- 💬 Ping me about **Python Programming, ML/AI, Gen-AI/RAG/LLM topics**
 
 - 📫 How to reach me **nikhilkumarnayak2@gmail.com,&nbsp;[Instagram](https://www.instagram.com/nikhilkumarnayak_official/), [LinkedIn](https://www.linkedin.com/in/nikhilkumarnayak/),[Kaggle](https://www.kaggle.com/nikhilboeing/)**
 
