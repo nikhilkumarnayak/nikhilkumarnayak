@@ -57,8 +57,8 @@
 <a href="https://www.hp.com/in-en/home.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hp/hp-icon.svg" alt="hp" width="40" height="40"/> </a>
 <a href="https://www.hpe.com/in/en/home.html" target="_blank" rel="noreferrer"> <img src="https://github.com/nikhilkumarnayak/company_logos/blob/main/logos/hpe_images.png" alt="hpe" width="50" height="40"/> </a>
 <a href="https://www.boeing.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/boeing/boeing-ar21.svg" alt="boeing" width="40" height="40"/> </a>
-<a href="https://www.autodesk.in/" target="_blank" rel="noreferrer"> <img src="https://github.com/nikhilkumarnayak/company_logos/blob/main/logos/autodesk-logo-update.jpg" alt="autodesk" width="60" height="40"/> </a>
-<a href="https://www.valuelabs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nikhilkumarnayak/company_logos/blob/main/logos/ValueLabs_LLP_Logo.jpg" alt="valuelabs" width="40" height="40"/> </a>
+<a href="https://www.autodesk.in/" target="_blank" rel="noreferrer"> <img src="https://github.com/nikhilkumarnayak/company_logos/blob/main/logos/autodesk-logo-update.jpg" alt="autodesk" width="80" height="40"/> </a>
+<a href="https://www.valuelabs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nikhilkumarnayak/company_logos/blob/main/logos/ValueLabs_LLP_Logo.jpg" alt="valuelabs" width="60" height="40"/> </a>
 <a href="https://www.infobeans.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nikhilkumarnayak/company_logos/blob/main/logos/infobeans.com.png" alt="infobeans" width="40" height="40"/> </a>
 </p>
 
