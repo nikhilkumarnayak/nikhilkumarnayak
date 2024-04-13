@@ -14,9 +14,9 @@
 
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>-->
 
-- 🔭 I’m currently working on **ML/AI along with NLP**
+- 🔭 I’m currently working on **ML/AI along with NLP and RAG/LLM**
 
-- 🌱 I’m currently learning **Gen-AI, RAG, Blockchain, MLOps, AIOps and ChatGPT**
+- 🌱 I’m currently learning **Gen-AI, RAG, Blockchain, MLOps, AIOps and VectorDB**
 
 - ⚙️ I use daily: **Python, Pyspark, ML/AI, NLP, Gen-AI/RAG/LLM, AWS/Azure/GCP, Knowledge Graph, VectorDB, PowerBI.**
 
