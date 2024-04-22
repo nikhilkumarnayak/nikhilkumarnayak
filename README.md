@@ -20,7 +20,7 @@
 
 - ⚙️ I use daily: **Python, Pyspark, ML/AI, NLP, Gen-AI/RAG/LLM, AWS/Azure/GCP, Knowledge Graph, VectorDB, PowerBI.**
 
-- 👯 I’m looking to collaborate on **Data Science topics**
+- 👯 I’m looking to collaborate on **Data Science,Data Analytics topics**
 
 - 🤝 I’m looking for help with **All Clouds(Azure, GCP & AWS) deployment**
 
@@ -28,7 +28,7 @@
 
 - 📝 I regularly write articles on [Linked Articles](https://www.linkedin.com/posts/nikhilkumarnayak_github-nikhilkumarnayakdata-science-topics-activity-6956989126621487104-q83L?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
-- 💬 Ping me about **Python Programming, Statistics, ML/AI, Gen-AI/RAG/LLM topics, Knowledge Graph, VectorDB**
+- 💬 Ping me about **Python Programming, Statistics, ML/AI, Gen-AI/RAG/LLM, Knowledge Graph, VectorDB**
 
 - 📫 How to reach me **nikhilkumarnayak2@gmail.com,&nbsp;[Instagram](https://www.instagram.com/nikhilkumarnayak_official/), [LinkedIn](https://www.linkedin.com/in/nikhilkumarnayak/),[Kaggle](https://www.kaggle.com/nikhilboeing/)**
 
